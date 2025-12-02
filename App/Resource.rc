@@ -127,8 +127,11 @@ Resource(engine/soundfont/GMGSx.sf2.zstdcmp)
 //
 //////////////////////////////////////////////////////
 
-
-
+Resource(sound/AC.mp3)
+Resource(sound/WA.mp3)
+Resource(sound/ExitButton.mp3)
+Resource(sound/DecideButton.mp3)
+Resource(sound/CancelButton.mp3)
 /* examples 
 
 	//
