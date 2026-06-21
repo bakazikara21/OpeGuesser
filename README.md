@@ -2,7 +2,7 @@
 You should guess operator of an equation.
 
 ## Download
-下記のURLから実行ファイルをダウンロードできます。
+下記のURLから実行ファイルをダウンロードできます。<br>
 https://github.com/bakazikara21/OpeGuesser/releases
 
 ## 操作方法
